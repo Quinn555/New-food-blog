@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  padding: 10px;
+  border-bottom: 2px solid #fff;
+  margin: 20px;
+}
+
+.TopRight {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+div ul {
+  display: flex;
+  list-style: none;
+}
+
+div li {
+  margin-left: 20px;
+}
+
+div a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+main h1 {
+  border-bottom: 2px solid #fff;
+  margin: 150px 0 0;
+}
+
+main {
+  color: #fff;
+  padding: 10px;
+  margin: 150px;
+}
+
+h1 {
+  font-size: 72px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+}
+
+body {
+  background-image: url(green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+  height: 100%;
+  width: 100%;
+}
+
+article {
+  color: #fff;
+  text-size-adjust: 1;
+  color: #fff;
+  padding: 70px;
+  background-color: black;
+  padding-top: 60px;
+}
+article div {
+  margin-top: 50px;
+}
+img {
+  width: 600px;
+  height: 400px;
+}
+
+.Pinaple, .bread, .noodles {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
